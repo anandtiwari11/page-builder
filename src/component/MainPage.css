@@ -1,0 +1,34 @@
+/* src/components/MainPage.css */
+.container {
+    display: flex;
+    width: 100%;
+  }
+  
+  .sidebar {
+    width: 200px;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-right: 1px solid #ccc;
+  }
+  
+  .main-page {
+    flex-grow: 1;
+    position: relative;
+    min-height: 100vh;
+    border: 2px dashed #ddd;
+    padding: 20px;
+    overflow: auto;
+  }
+  
+  .sidebar div {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    cursor: grab;
+    background-color: white;
+  }
+  
+  .sidebar div:hover {
+    background-color: #e0e0e0;
+  }
+  
