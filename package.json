@@ -1,6 +1,4 @@
 {
-  "homepage": "https://anandnormie.github.io/page-builder",
-  "name": "page-builder",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
