@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/anandnormie/page-builder/static/css/main.da18df78.css",
-    "main.js": "/anandnormie/page-builder/static/js/main.8a027551.js",
-    "index.html": "/anandnormie/page-builder/index.html",
-    "main.da18df78.css.map": "/anandnormie/page-builder/static/css/main.da18df78.css.map",
-    "main.8a027551.js.map": "/anandnormie/page-builder/static/js/main.8a027551.js.map"
+    "main.css": "/page-builder/static/css/main.da18df78.css",
+    "main.js": "/page-builder/static/js/main.8a027551.js",
+    "index.html": "/page-builder/index.html",
+    "main.da18df78.css.map": "/page-builder/static/css/main.da18df78.css.map",
+    "main.8a027551.js.map": "/page-builder/static/js/main.8a027551.js.map"
   },
   "entrypoints": [
     "static/css/main.da18df78.css",
